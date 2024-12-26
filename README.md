@@ -5,9 +5,9 @@ This Jupyter Notebook analyzes job postings and your portfolio (uploaded as link
 -Assess Profile Relevance
 -Generate Potential Interview Questions
 
-#Getting Started:
+# Getting Started:
 
-#Prerequisites:
+# Prerequisites:
 Obtain a Groq API key.
 
 In the notebook, locate the cell where the Groq SDK is initialized.
@@ -18,7 +18,7 @@ Execute the notebook cells sequentially.
 Provide the URL of the job posting and your portfolio URL when prompted.
 
 
-Disclaimer:
+# Disclaimer:
 
 This is a proof-of-concept project and may not provide 100% accurate results.
 The output of the model should be used as a guide and not as definitive advice.
